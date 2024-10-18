@@ -1,1 +1,5 @@
 #gearing up with the implementation of road raffic sign detction to identify the traffic sign 
+
+This project presents a Road Sign Detection model built using Convolutional Neural Networks (CNNs). The goal of the model is to classify various types of road signs with high accuracy. It is designed to improve the capabilities of autonomous vehicles and traffic monitoring systems by correctly identifying road signs based on input images. The CNN model effectively learns to recognize patterns in road sign images, enabling precise classification.
+
+The dataset used for this project is the German Traffic Sign Detection Benchmark (GTSDB), available on Kaggle. It contains a variety of labeled road sign images, making it ideal for training a machine learning model. The dataset is structured into three subsets: a training set for learning, a validation set for performance evaluation during training, and a testing set for final performance testing. This diverse collection of images allows the CNN to learn robust features and improve its classification accuracy.
